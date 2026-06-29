@@ -1,4 +1,4 @@
-# 
+# Lightweight Ollama plugins. Featuring privacy-preserving and semantic-search — optimized for maximum performance and efficiency.
 
 
 
